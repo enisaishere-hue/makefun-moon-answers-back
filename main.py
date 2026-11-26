@@ -5,6 +5,8 @@ The moon, after years of being stared at, finally answers: stop
 staring, it is just the night shift. No romance, no poetry -- just a
 tired celestial body clocking in.
 
+The moon gets no poetry here: after years of being stared at, it answers like a worker on the night shift, because it is one.
+
 Writes the answer to entry.txt inside the output directory. The
 directory comes from MAKEFUN_OUTPUT_DIR (default /output); a first
 command-line argument, if given, overrides it. The grader runs the
